@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/editcopy.png</file>
+        <file>Images/editpaste.png</file>
+        <file>Images/editredo.png</file>
+        <file>Images/editundo.png</file>
+        <file>Images/exportpdf.png</file>
+        <file>Images/filenew.png</file>
+        <file>Images/fileopen.png</file>
+        <file>Images/textunder.png</file>
+        <file>Images/filesave.png</file>
+        <file>Images/qt-logo.png</file>
+        <file>Images/textbold.png</file>
+        <file>Images/textcenter.png</file>
+        <file>Images/textitalic.png</file>
+        <file>Images/textjustify.png</file>
+        <file>Images/textleft.png</file>
+        <file>Images/textright.png</file>
+        <file>Images/zoomin.png</file>
+        <file>Images/zoomout.png</file>
+        <file>Images/appresources.qrc.autosave</file>
+        <file>Images/image.qrc</file>
+        <file>Images/find.png</file>
+        <file>Images/replace.png</file>
+        <file>Images/appres.qrc</file>
+        <file>Images/editcut.png</file>
+        <file>Images/fileprint.png</file>
+    </qresource>
+</RCC>
